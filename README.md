@@ -97,12 +97,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 
-<!--END_SECTION:waka-->
-
-
 <img src="https://wakatime.com/share/@Codetari/5cc708e5-95b3-4e0a-8c57-8017675768ab.svg"/>
 
 <img src="https://wakatime.com/share/@Codetari/4892a892-7078-430a-a92d-ca694da04c3d.svg"/>
+
+
+<!--END_SECTION:waka-->
+
+
+
 
 
 
