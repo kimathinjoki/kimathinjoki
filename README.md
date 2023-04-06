@@ -93,9 +93,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimathinjoki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<figure><embed src="https://wakatime.com/share/@Codetari/5cc708e5-95b3-4e0a-8c57-8017675768ab.svg"></embed></figure>
+<img src="https://wakatime.com/share/@Codetari/5cc708e5-95b3-4e0a-8c57-8017675768ab.svg"/>
 
-<figure><embed src="https://wakatime.com/share/@Codetari/4892a892-7078-430a-a92d-ca694da04c3d.svg"></embed></figure>
+<img src="https://wakatime.com/share/@Codetari/4892a892-7078-430a-a92d-ca694da04c3d.svg"/>
 
 
 
