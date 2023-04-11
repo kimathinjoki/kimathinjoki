@@ -6,7 +6,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kimathi-njoki-03b6031b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
