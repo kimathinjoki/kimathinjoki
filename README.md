@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
     <a href="mailto:dfkimathinjoki@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png"/>
   </a>
   </div>
 
