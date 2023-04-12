@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🔭 I’m currently working on multiple frontend and backend projects.
 - 🌱 I’m currently learning deep learning.
 - 💬 Ask me about health-tech
@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
     <a href="mailto:dfkimathinjoki@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="30" height="30"/>
   </a>
   </div>
 
