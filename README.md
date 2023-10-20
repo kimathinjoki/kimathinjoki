@@ -105,19 +105,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 17 October 2023
+From: 10 January 2023 - To: 18 October 2023
 
-Total Time: 801 hrs 56 mins
+Total Time: 805 hrs 2 mins
 
-JavaScript     379 hrs 34 mins ███████████▓░░░░░░░░░░░░░   47.33 %
-Ruby           307 hrs 22 mins █████████▓░░░░░░░░░░░░░░░   38.33 %
-CSS            42 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-TypeScript     15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JavaScript     379 hrs 34 mins ███████████▓░░░░░░░░░░░░░   47.15 %
+Ruby           310 hrs 14 mins █████████▓░░░░░░░░░░░░░░░   38.54 %
+CSS            42 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+TypeScript     15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 Markdown       12 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-YAML           10 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Other          7 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+YAML           10 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other          7 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Python         5 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JSON           4 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON           4 hrs 27 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ERB            4 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
