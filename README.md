@@ -110,19 +110,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 12 March 2024
+From: 10 January 2023 - To: 13 March 2024
 
-Total Time: 1,081 hrs 42 mins
+Total Time: 1,085 hrs 3 mins
 
-Ruby             538 hrs 3 mins  ████████████▒░░░░░░░░░░░░   49.74 %
-JavaScript       389 hrs 3 mins  █████████░░░░░░░░░░░░░░░░   35.97 %
-CSS              43 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Java             17 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Ruby             538 hrs 51 mins ████████████▒░░░░░░░░░░░░   49.66 %
+JavaScript       389 hrs 3 mins  █████████░░░░░░░░░░░░░░░░   35.86 %
+CSS              43 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Java             19 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 YAML             15 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 TypeScript       15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-ERB              12 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown         12 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Bash             8 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+ERB              13 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Markdown         12 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash             8 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Other            8 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
