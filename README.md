@@ -110,7 +110,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 13 March 2024
+From: 10 January 2023 - To: 14 March 2024
 
 Total Time: 1,085 hrs 3 mins
 
