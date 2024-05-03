@@ -110,14 +110,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 30 April 2024
+From: 10 January 2023 - To: 01 May 2024
 
-Total Time: 1,148 hrs 50 mins
+Total Time: 1,149 hrs 24 mins
 
-Ruby             577 hrs 52 mins ████████████▓░░░░░░░░░░░░   50.30 %
-JavaScript       399 hrs 15 mins ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Ruby             577 hrs 52 mins ████████████▓░░░░░░░░░░░░   50.28 %
+JavaScript       399 hrs 15 mins ████████▓░░░░░░░░░░░░░░░░   34.74 %
 CSS              43 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Java             29 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Java             29 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 YAML             15 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 TypeScript       15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ERB              13 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
