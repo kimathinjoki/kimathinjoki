@@ -92,12 +92,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimathinjoki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img
-  src="https://github.com/kimathinjoki/kimathinjoki/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-
-
 
 <!--START_SECTION:waka-->
 
