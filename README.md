@@ -1,6 +1,3 @@
-<div align="center">
- Hi there 👋
-</div>
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100" margin="10"/>
@@ -30,8 +27,6 @@
 ---
 
 ### :man_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 📫 How to reach me: <div> <a href= "https://www.linkedin.com/in/kimathi-njoki-03b6031b0/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
