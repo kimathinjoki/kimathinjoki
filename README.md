@@ -96,20 +96,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 23 August 2024
+From: 10 January 2023 - To: 24 August 2024
 
-Total Time: 1,242 hrs 14 mins
+Total Time: 1,243 hrs 34 mins
 
-Ruby             602 hrs 42 mins ████████████░░░░░░░░░░░░░   48.52 %
-JavaScript       450 hrs 50 mins █████████░░░░░░░░░░░░░░░░   36.29 %
+Ruby             602 hrs 42 mins ████████████░░░░░░░░░░░░░   48.47 %
+JavaScript       450 hrs 50 mins █████████░░░░░░░░░░░░░░░░   36.25 %
 CSS              44 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 Java             30 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 YAML             17 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 TypeScript       15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ERB              14 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Bash             13 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Markdown         13 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other            8 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Markdown         13 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python           9 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
