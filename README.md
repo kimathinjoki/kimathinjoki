@@ -96,15 +96,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 20 September 2025
+From: 10 January 2023 - To: 22 September 2025
 
-Total Time: 1,750 hrs 10 mins
+Total Time: 1,750 hrs 22 mins
 
 Ruby             660 hrs 4 mins  █████████▒░░░░░░░░░░░░░░░   37.71 %
-JavaScript       636 hrs 7 mins  █████████░░░░░░░░░░░░░░░░   36.35 %
-Python           140 hrs 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+JavaScript       636 hrs 7 mins  █████████░░░░░░░░░░░░░░░░   36.34 %
+Python           140 hrs 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 CSS              46 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Other            39 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other            39 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 TypeScript       38 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 Bash             32 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 Java             31 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
